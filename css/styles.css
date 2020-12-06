@@ -24,18 +24,13 @@ h2 {
 }
 
 h3 {
-  color:  #11999E;
+  color: #11999E;
   font-family: 'Neucha', cursive;
 }
 
-.middle-container {
+.middle-container {}
 
-}
-
-.bottom-container {
-
-}
-
+.bottom-container {}
 
 .web {
   text-decoration: underline;
@@ -47,7 +42,6 @@ h3 {
   left: 300px;
   height: 60px;
   width: 150px;
-
 }
 
 .top-cloud {
@@ -55,22 +49,24 @@ h3 {
   top: 50px;
   right: 300px;
   height: 60px;
-  width:150px;
-
+  width: 150px;
 }
 
 .top-container {
   position: relative;
   padding-top: 100px;
 }
-img{
+
+img {
   height: 200px;
   width: 200px;
 }
-.circular{
+
+.circular {
   border-radius: 100%;
 }
-.mountain-img{
+
+.mountain-img {
   height: 450px;
   width: 600px;
 }
